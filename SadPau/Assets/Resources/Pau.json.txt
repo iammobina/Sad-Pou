@@ -1,0 +1,5 @@
+{"Pau":[
+  {"ObjPau":[{"id":"1","isClick":true,"satate":"sad","rotate":180},{"id":"2","isClick":false,"satate":"happy","rotate":90},{"id":"3","isClick":false,"satate":"happy","rotate":0},{"id":"4","isClick":false,"satate":"happy","rotate":270}],"Level":1},
+  {"ObjPau":[{"id":"1","isClick":false,"satate":"happy","rotate":0},{"id":"2","isClick":false,"satate":"happy","rotate":180},{"id":"3","isClick":false,"satate":"happy","rotate":90},{"id":"4","isClick":true,"satate":"sad","rotate":270},{"id":"5","isClick":false,"satate":"happy","rotate":0},{"id":"6","isClick":false,"satate":"happy","rotate":180},{"id":"7","isClick":false,"satate":"happy","rotate":0},{"id":"8","isClick":false,"satate":"happy","rotate":90},{"id":"9","isClick":false,"satate":"happy","rotate":180}],"Level":2}
+ ]}
+  
