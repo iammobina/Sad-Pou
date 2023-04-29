@@ -1,5 +1,5 @@
 # Sad Tap (Sad Pou)
-
+ 
 In this game, there is a grid of Pous on the screen. The objective is to tap sad Pous, which then turns them into happy Pous. Tapping happy Pous decreases time, and when the player is out of time, the game ends. When all Pous are happy, the player immediately passes to the next level.
 
 
